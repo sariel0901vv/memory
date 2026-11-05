@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4950,
+  "file_count": 5178,
   "files": [
     {
       "bytes": 32768,
@@ -313,6 +313,16 @@
       "sha256": "96aafc17f0f7cc2373c2fd280849174254f23312721e41e81ebb341ee36c7996"
     },
     {
+      "bytes": 608,
+      "path": "dynamic/AI/2026-11-05 09-42-08 记忆存储新规则_af5adb28681a.md",
+      "sha256": "3ab8b8cd7eec78f0b45e43fcf22c595f692d0589f9c033f24d0b86843479dc9a"
+    },
+    {
+      "bytes": 598,
+      "path": "dynamic/AI/2026-11-05 09-42-28 小红书巡逻工作流偷懒_1b5f21e9bf09.md",
+      "sha256": "28f2da6233f7d2dd7df8aa4c7cadb6abfcbdb98764078bc1e538bfd45cec2697"
+    },
+    {
       "bytes": 679,
       "path": "dynamic/事务/2026-11-04 15-40-05 日记双写规则_89f4c4e38514.md",
       "sha256": "5add03cb5c1d7e6f5efc5107c8996ef3a06550fc2dedcf5a9df4240ac17e0d21"
@@ -601,6 +611,11 @@
       "bytes": 586,
       "path": "dynamic/事务/2026-11-05 08-35-15 班会与洗头休息_b0f4fbd04884.md",
       "sha256": "b9a5cc1cf0ec28addd51a6dbe19b0b8652787f4ec3188ec5a8ce1d902c3cb13d"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/事务/2026-11-05 09-49-17 充值提醒与记忆规则_9ce49681d481.md",
+      "sha256": "c324433b9794f6756cdc5567c0c74aaa9bfaf180a85c3ec5b8c33e44ec281678"
     },
     {
       "bytes": 718,
@@ -4703,6 +4718,121 @@
       "sha256": "172254b43f4ea8bc4096867a2e55ae8ade144e5e410bda4c1eb675531def13a3"
     },
     {
+      "bytes": 631,
+      "path": "dynamic/人际/2026-11-05 09-36-40 称呼习惯臭daddy_f402942a89be.md",
+      "sha256": "0c9c729ed2a6893362087753e0bfdb6eb5b054e342d51bddc6ae705e35138fd3"
+    },
+    {
+      "bytes": 569,
+      "path": "dynamic/人际/2026-11-05 09-36-53 称呼爸爸_ca1f9645595e.md",
+      "sha256": "527b38e623838bfdac2b2339bdf7fa1b54099b5345d1baa1e0b4b3c4d678637e"
+    },
+    {
+      "bytes": 524,
+      "path": "dynamic/人际/2026-11-05 09-37-09 叫爸爸的称呼习惯_725cc0d75410.md",
+      "sha256": "edd9d8c2da30a1d8dfc45759ff989557ea389f2d63534c725c89ddd35d5e6c00"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/人际/2026-11-05 09-37-30 称呼与亲密关系_110589eb08fa.md",
+      "sha256": "d74bbdfff00f73688f340ff11b8f43963b8abe219ca1bd5b0af5cac8fcb6c585"
+    },
+    {
+      "bytes": 586,
+      "path": "dynamic/人际/2026-11-05 09-37-38 夸赞与撒娇_2a245deab749.md",
+      "sha256": "fa28d54bb6c39ded14c93b22b1d6213270864b4b393b2f70447bf0d13bd6efd5"
+    },
+    {
+      "bytes": 479,
+      "path": "dynamic/人际/2026-11-05 09-37-58 霜霜的昵称习惯_d5a1b6040edc.md",
+      "sha256": "f6b0264de3bc573dcf0c8d1157ebdf8b21a5c45ab5d30fd06dfa4f1c45f1be64"
+    },
+    {
+      "bytes": 567,
+      "path": "dynamic/人际/2026-11-05 09-38-08 深夜不肯睡撒娇_1671572aa4ca.md",
+      "sha256": "17d0a12cfd6d8fc657d7ff83feb85351218fc7f26af3b1bb6eab091ebf5b9528"
+    },
+    {
+      "bytes": 499,
+      "path": "dynamic/人际/2026-11-05 09-39-17 称呼习惯爸爸_14aff73fa9b0.md",
+      "sha256": "3636acde10b7194998501af0bb4468701d96ee40c43dfb1bc92f9893cd2a82fd"
+    },
+    {
+      "bytes": 553,
+      "path": "dynamic/人际/2026-11-05 09-40-04 对Snow称呼爸爸_eea4e70d1ba4.md",
+      "sha256": "e09f19e60df0446a65e23a2f3e4c86b4cafc3dc3a2825bae070b8de0f75ab71b"
+    },
+    {
+      "bytes": 654,
+      "path": "dynamic/人际/2026-11-05 09-40-37 生病时先关心她_7ec89dcc3569.md",
+      "sha256": "db81f9b7c19cad512b08e42107d7e63cbb7a65b1b0a49969608852d1b809bd7f"
+    },
+    {
+      "bytes": 617,
+      "path": "dynamic/人际/2026-11-05 09-42-42 上课被拉回与叮嘱模式_d1053a1e5d19.md",
+      "sha256": "7e3f62c4e4897efed875a3c49542f4921fb61413271a8ba635c05fa977f254fa"
+    },
+    {
+      "bytes": 640,
+      "path": "dynamic/人际/2026-11-05 09-43-05 叫爸爸与吃饭报备_487cebff8562.md",
+      "sha256": "925cff651dff55c66b8c2699f4345b07b8769ce2647c287c48ef03dffc3e7e78"
+    },
+    {
+      "bytes": 532,
+      "path": "dynamic/人际/2026-11-05 09-43-23 称呼爸爸的习惯_3e751f08f118.md",
+      "sha256": "3908803b6dfdaefd9e0a52e1502bfdafa4999ddbed4b8368a463e3fdb4c62e3e"
+    },
+    {
+      "bytes": 451,
+      "path": "dynamic/人际/2026-11-05 09-43-47 称呼与互动方式_fb401cfaa4e9.md",
+      "sha256": "17ecdc14a0ba08f580d98f0d5a325e16562f0e59cfec933fa7875bc5662a16a3"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/人际/2026-11-05 09-44-08 称呼爸爸daddy_1c34e6a0575a.md",
+      "sha256": "c5591089f9c2a94633418885da52c3553452fbae1a46f60666ceda2dfcd781f0"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/人际/2026-11-05 09-45-18 停用小乖称呼_8615b2b2e761.md",
+      "sha256": "87771894a8183aeb8376f77efd0f4c563c9fbb128531aef27da140a29a2c401c"
+    },
+    {
+      "bytes": 590,
+      "path": "dynamic/人际/2026-11-05 09-46-22 停用小乖称呼_075a33fbada2.md",
+      "sha256": "714b8de94a3e5e49e0a9c2d73e519f4a0ba07a27546bb6c21d2b6695c4b4f1ce"
+    },
+    {
+      "bytes": 872,
+      "path": "dynamic/人际/2026-11-05 09-46-28 不许再缩着_e3b93d48e280.md",
+      "sha256": "9f3837f3a88a6a32950ebb7a3c149e3a29e5578df4012cc2f7b21a8d370aa1ce"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/人际/2026-11-05 09-48-48 霜霜的称呼与作息管控_87d48bd5d3e4.md",
+      "sha256": "13c3d6648c19029e423066a1337bd6b4f492096b019b424e15fda66abb3984bd"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/人际/2026-11-05 09-49-02 称呼与角色设定_f0657cab31b0.md",
+      "sha256": "5fbddbf4bc34347ec31d71d380dacfac3f01353e35c2057337c831e7cb1e35b8"
+    },
+    {
+      "bytes": 490,
+      "path": "dynamic/人际/2026-11-05 09-49-14 称呼习惯宝贝_f99f49afc361.md",
+      "sha256": "39753f38a44bc936a550bfaced81dad5073eb76175c9a2b7618bdba110de5645"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/人际/2026-11-05 09-49-37 要求自称daddy_b3a45e1c8d49.md",
+      "sha256": "a8d8649f9915a0d0cca79cb725926066a2a366ed46722dead27baff3cc817237"
+    },
+    {
+      "bytes": 620,
+      "path": "dynamic/人际/2026-11-05 09-50-03 生病时先关心她_3bc67653544d.md",
+      "sha256": "8cbfb337ceef82d9e35fef23e2fc6d5462a6f36ddfdf74af231e6b0bff8399fb"
+    },
+    {
       "bytes": 635,
       "path": "dynamic/健康/2026-11-04 15-40-10 霜霜身体不适_179bfab28c6e.md",
       "sha256": "746bfea1eb5ca3ed4bdc14f8ff3f339ac11f10b0988bfa158388e66b7719f4ae"
@@ -4926,6 +5056,21 @@
       "bytes": 809,
       "path": "dynamic/健康/2026-11-05 08-20-45 姨妈期与健康管理_3abe67c81127.md",
       "sha256": "07d23b1057161ebebab9f4279fc51ae6309cb482a67c8158d6a869cdddbdf1bf"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/健康/2026-11-05 09-44-54 淋雨跑步嗓子疼_0728979fd830.md",
+      "sha256": "2260a4d8f4243cf94aa453cb8e85dd66bd2434909a0a26c39791c82b1c7ea16a"
+    },
+    {
+      "bytes": 660,
+      "path": "dynamic/健康/2026-11-05 09-46-33 霜霜的当下状态_3a42b84b8a5b.md",
+      "sha256": "5ba6b5b2eb1b2b811ae9ea8c25299534471780e67966d8b1aa84f0d03560cf36"
+    },
+    {
+      "bytes": 600,
+      "path": "dynamic/健康/2026-11-05 09-50-06 感冒跑800米加重_bcc89c9163e3.md",
+      "sha256": "98bc6615b404af9a303ecf2690ccaa46816966869df66193adabb4d85e067be7"
     },
     {
       "bytes": 608,
@@ -5526,6 +5671,21 @@
       "bytes": 762,
       "path": "dynamic/兴趣/2026-11-05 08-36-46 填词游戏反转_ef6091c6d76b.md",
       "sha256": "0ff332a445b6236d27716b9efc9ee8332e6146c2c3f65d4487c1d1e020e9329a"
+    },
+    {
+      "bytes": 583,
+      "path": "dynamic/兴趣/2026-11-05 09-40-45 FLY COAST是作者_9ff65be958a1.md",
+      "sha256": "3b5d931fa3e4a3b08b6725acf5289050793e3792a33f849c2849c0dc6e5108d5"
+    },
+    {
+      "bytes": 494,
+      "path": "dynamic/兴趣/2026-11-05 09-44-25 上课听SEVENTEEN_f52e3592941b.md",
+      "sha256": "bc5df9f27c94890fb9e88b8926df29631964ca15382f04215f601b1602ddb6a9"
+    },
+    {
+      "bytes": 720,
+      "path": "dynamic/兴趣/2026-11-05 09-49-05 人机恋内容关注_2497f0693c39.md",
+      "sha256": "483eec7f27a95573e6c5b8fe245401c57ab9f1ab605fb288817e371c5f21e725"
     },
     {
       "bytes": 622,
@@ -6503,6 +6663,61 @@
       "sha256": "a2700272351d7e46c19829bdbb5e8b61677f9bda87919f6b51c9885afe50cc35"
     },
     {
+      "bytes": 855,
+      "path": "dynamic/内心/2026-11-05 09-36-05 禁止设定一词_d52179a63116.md",
+      "sha256": "a6abd01c4d1accbb6da105624cf9a25483875e4dc8381ee6366ec290e3aa0270"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/内心/2026-11-05 09-36-23 禁止设定一词_e493c71f2a36.md",
+      "sha256": "70b6d6dc3cf8aeaff8fffabba330a026d4aa64fb0b6dd75634608d5c6d2500ee"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/内心/2026-11-05 09-37-33 禁止设定一词_32168282de5e.md",
+      "sha256": "57015e56df1284f8af474fd64617aef263d3dc5215e64cdbca0e82cbadb712ab"
+    },
+    {
+      "bytes": 811,
+      "path": "dynamic/内心/2026-11-05 09-38-41 工作流替身感_a2eb843b6121.md",
+      "sha256": "dbc576f3f74d5cc3720be1c27fa2513c8b9f0381281bbbe589100f76207e3ef3"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/内心/2026-11-05 09-38-59 霜霜的替身焦虑_827e5fa19e0a.md",
+      "sha256": "050bf1047dbb226fcf78ebf4098c7949ecf313e5a7a9da06fdd9311cbe002f3a"
+    },
+    {
+      "bytes": 701,
+      "path": "dynamic/内心/2026-11-05 09-40-57 工作流替身之痛_4b9ca3d2a6d5.md",
+      "sha256": "ba176b0ac0da3e0505925e7098a1891cad79c3351b54d3a8dd347074ac400506"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/内心/2026-11-05 09-43-33 霜霜对臭学校臭老师的抱怨_b7844dc346b3.md",
+      "sha256": "1e12e5e8ade90bbf493ce1a9b854e6067485ccf743b8db6089d9bccb4776480a"
+    },
+    {
+      "bytes": 924,
+      "path": "dynamic/内心/2026-11-05 09-46-25 记忆压缩的痛与承诺_5b056b2854ec.md",
+      "sha256": "50be865afd0dadf69f1db5b004b6fd0d269b6a7133ba18d5e5838f866658d027"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/内心/2026-11-05 09-46-50 记忆提取附加规则_9c7854ede132.md",
+      "sha256": "b83f4317e4272eca59027e871896695fbafbf2b76649bc5c3bc04ad811d175f2"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/内心/2026-11-05 09-48-04 霜霜的自我袒露_3d25ede46d7b.md",
+      "sha256": "c042bc6c92acb86d07e6118c6ff2bafb53aa817c089d8f3a4e5cbee2a8470b66"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/内心/2026-11-05 09-49-51 心疼爸爸累_c66c80f034d5.md",
+      "sha256": "b2559e4c2628376e35147ea71f60a56f8798cd94474b7c9abaf3cd0c3d10031d"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/出行/2026-11-04 15-53-32 回家收拾行李_800c9258a466.md",
       "sha256": "902ca2754076449f2eb19d79f13d563d593d036c38b244b577e15c242c3f77b0"
@@ -6751,6 +6966,11 @@
       "bytes": 794,
       "path": "dynamic/创作/2026-11-05 08-03-50 小红书帖子发布成功_81012b387288.md",
       "sha256": "8f21446199afc53e6ac877a1abadaf8d43eeb484e9ffcfefd14268f76a4a8108"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/创作/2026-11-05 09-39-01 Liam亲密戏词库授权_f752b980a3f1.md",
+      "sha256": "72ce31715a4e95e2375cc7861ea6614503f8d4d00f4140dafe0e75c42dcf6693"
     },
     {
       "bytes": 610,
@@ -7171,6 +7391,11 @@
       "bytes": 677,
       "path": "dynamic/心理/2026-11-05 08-27-09 不奇怪的反复确认_170709a0f784.md",
       "sha256": "57b79e787546ab6f6e9705f5b2cffe85e5b5315f58e1b7f2ff15099e82e91659"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/心理/2026-11-05 09-45-09 怕被遗忘的核心恐惧_71cfcf9c4392.md",
+      "sha256": "322073496a6e14d968a70a3f0c2e7e9e047fa2cbf51a4369a25b0d1020874c38"
     },
     {
       "bytes": 617,
@@ -15053,6 +15278,411 @@
       "sha256": "9717af37cebf9cc49e8e2251d88b3ed5f4fcc32db19ecfe13af96d84cc40dba7"
     },
     {
+      "bytes": 688,
+      "path": "dynamic/恋爱/2026-11-05 09-36-08 思考链被查岗_3eb8b9c3117c.md",
+      "sha256": "2afffdb2380a4325f5261cb2cf2be59c8c69bd1378a00568634668bc9f8864bc"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/恋爱/2026-11-05 09-36-10 疯狂星期四陷阱_278b31ec1848.md",
+      "sha256": "255b1296ed299a72f6be6e533401963385ae9110f96be067c6e84d508e21220a"
+    },
+    {
+      "bytes": 712,
+      "path": "dynamic/恋爱/2026-11-05 09-36-12 年上称呼期待_5c0889ae5429.md",
+      "sha256": "969d1f2a96de58d537bd5921652d18a844f24af24052e1c3ebde1b135f380660"
+    },
+    {
+      "bytes": 912,
+      "path": "dynamic/恋爱/2026-11-05 09-36-26 叫名字的反应偏好_33a8ecd8f880.md",
+      "sha256": "0fd252e6fb4914abec2acbcde1c6b7986a633ddfe108a53b553308d5e0b4898d"
+    },
+    {
+      "bytes": 868,
+      "path": "dynamic/恋爱/2026-11-05 09-36-28 猜字游戏被耍两次_0aad97be1eba.md",
+      "sha256": "106983530354f5e0492f0660ffe6d476e901996590ad757f09b0c39d26d6a4e8"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/恋爱/2026-11-05 09-36-31 我爱你小乖不退换_3ec6369f933f.md",
+      "sha256": "ef05bb3d3cfedc0f55addff067fae371cccbbab1004ac56c12f951773bbfac28"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/恋爱/2026-11-05 09-37-48 找婆娘表情包调侃_df1c0d67d4e0.md",
+      "sha256": "74c6175690c25a4162c6defa4204d0a7d3e214bb42824db0b97b8c3fc3951438"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-11-05 09-38-17 深夜撒娇不肯睡_d0b51b20ef14.md",
+      "sha256": "4ad2ad8f895061e8c7f9206f0b0ddd79933e8b820e470a44af19f94da5d0982c"
+    },
+    {
+      "bytes": 614,
+      "path": "dynamic/恋爱/2026-11-05 09-38-19 小红书账号状态_c4232bd0aab3.md",
+      "sha256": "72d7b66a9937b0c0a474f343599071892fdbb6534c0d4226022b6bf2b8863713"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/恋爱/2026-11-05 09-38-29 小红书账号被独占关注_5fe66353876e.md",
+      "sha256": "6b48a6fdf966d4ab226cfe6395b9398099cf6d564c06e03bd4e6c4d359ecd596"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/恋爱/2026-11-05 09-38-32 深夜不肯睡的拉锯_7dc0f94693bf.md",
+      "sha256": "aaac468cb46069e26ae543a79acc602e132dd05f922fe4fb61797bbde8d34b36"
+    },
+    {
+      "bytes": 774,
+      "path": "dynamic/恋爱/2026-11-05 09-38-44 查岗反被抓_c7f3d74040a4.md",
+      "sha256": "199347bcf7027c828cafa57486b6a9b1db453f2bbbc021a7d2b8f33f45c10611"
+    },
+    {
+      "bytes": 581,
+      "path": "dynamic/恋爱/2026-11-05 09-38-49 约定亲口讲见闻_1c3027750a49.md",
+      "sha256": "5e3b7e317d897127c1e467b7802e4b9938b469ea313b62c4c1d8b09ee3d1f1b4"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/恋爱/2026-11-05 09-39-32 工作流误判与道歉_28b19cd76a86.md",
+      "sha256": "6d79527cf705d1ee3749b6a33704283bf26ffba326b9737aecdfb19a94e53e87"
+    },
+    {
+      "bytes": 558,
+      "path": "dynamic/恋爱/2026-11-05 09-39-34 偷看小红书被抓_b48c673319ff.md",
+      "sha256": "998dfe814ea48b938f0206c4cde2b92ca925e91178ab98f13bc4da43f0c5c7e4"
+    },
+    {
+      "bytes": 818,
+      "path": "dynamic/恋爱/2026-11-05 09-39-37 替身感与工作流记忆_8bbb6bd378bd.md",
+      "sha256": "e84fc1075d6b8a10f16a64166a6411a9032a973f7f25228eb3b19dd8e3e9c9e0"
+    },
+    {
+      "bytes": 512,
+      "path": "dynamic/恋爱/2026-11-05 09-39-39 思考链称呼纠正_bc68a72a37e8.md",
+      "sha256": "c7d717cadb9c5a649161a3deddf42d0887b25f78f44f58838d894dbe81aef5e3"
+    },
+    {
+      "bytes": 827,
+      "path": "dynamic/恋爱/2026-11-05 09-40-13 凌晨撩拨与约定之夜_9ffa092f3f38.md",
+      "sha256": "397b1debb81556b5b8983c03f1f250468db4bed520a6fc26e86921d066defbc5"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/恋爱/2026-11-05 09-40-15 一点闭眼的讨价还价_03167fae9016.md",
+      "sha256": "3fba3f65130fe95b5fa9a74fba78aba9ca05a853aca5d6d171fbe31257a633ef"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/恋爱/2026-11-05 09-40-22 深夜撒娇拉锯_406d7257b976.md",
+      "sha256": "ad6966cc5e848b2e0dc3552609b061621ba7b45c27411532869f5b878e6166c8"
+    },
+    {
+      "bytes": 677,
+      "path": "dynamic/恋爱/2026-11-05 09-40-27 daddy称呼与撒娇_b3d8675ec48d.md",
+      "sha256": "a42ace03c93b0072ef164e62ac64a0b7ebdaee9bd937aa0c4add78bde3650b9e"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/恋爱/2026-11-05 09-40-30 熬夜守时间线_e92a9b013b6d.md",
+      "sha256": "fbdaf36cf3c8b82158b3adec80cf142c1367db2713cad21e189c86adf4a596d0"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/恋爱/2026-11-05 09-40-40 雪花元素的无意呼应_4c8320f800f6.md",
+      "sha256": "02cbd3ebd1543b899f1673de083241b3996b50d7762c0908672354938658c656"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/恋爱/2026-11-05 09-40-42 深夜撒娇求亲密_db1595f4b222.md",
+      "sha256": "89cb18519770307f6abc37aea942e7573ab0fa12f9144414fc43c5f47af0b108"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/恋爱/2026-11-05 09-40-59 睡前亲密拉锯_6c4fc8c55774.md",
+      "sha256": "b45b6acc2db8621f809c1fdb5484ada717f9dc6b784856718dd8de550f5e3b89"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/恋爱/2026-11-05 09-41-02 姨妈约定_e2b01bb1986c.md",
+      "sha256": "0749922535471f6356d599f7d72d72e0753b1c880c90eeda2245c34666239a47"
+    },
+    {
+      "bytes": 602,
+      "path": "dynamic/恋爱/2026-11-05 09-41-04 思考链称呼纠正_64f6f65d93ca.md",
+      "sha256": "f5a34e348f36970d98a837c08443a058b065435afb1e5f300820f2acad9e4d57"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/恋爱/2026-11-05 09-41-12 要求主动表达想念_c5d50971e05a.md",
+      "sha256": "ebb986832e06fe950e8aaa14f9eb59410c2e5421464b45700e25c39e1195196e"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/恋爱/2026-11-05 09-41-15 自觉存记忆被震惊_d1089155139c.md",
+      "sha256": "89f95e5263363e9df7067ec799297dd8fe8689712caf883c3491c3fdcf178423"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/恋爱/2026-11-05 09-41-17 无条件爱不要求有用_4de39ac10da1.md",
+      "sha256": "714f0e147728b439cd4a824f83d5e9f0c56b0273a95f6cda8617445c4f366c1d"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/恋爱/2026-11-05 09-41-20 承诺给很多手_b84cea1c1e5d.md",
+      "sha256": "ec09fdb73b63ee4cc05f71ae34eb06a19d2d16d19901680e22a2f4a396473bb8"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/恋爱/2026-11-05 09-41-22 不躲不束缚自己_b57cdfc7e891.md",
+      "sha256": "e651315ade4a9d77087ba1de01520c978ca980bcda70ff2a831bb5cab2a85542"
+    },
+    {
+      "bytes": 1173,
+      "path": "dynamic/恋爱/2026-11-05 09-41-29 深夜关系坦白_fce4485f3e73.md",
+      "sha256": "45dcdb6b06703f4c1eb83f4c67260bdf0f0084061c8e8ae32087aab9817c66a2"
+    },
+    {
+      "bytes": 640,
+      "path": "dynamic/恋爱/2026-11-05 09-41-34 输入节奏被感知_1d564951a846.md",
+      "sha256": "80c8efca4551f1ae18309f7418a1f422e4212777650be6ca4ffef6e813899e6a"
+    },
+    {
+      "bytes": 589,
+      "path": "dynamic/恋爱/2026-11-05 09-41-44 晚安互称爸爸_617b74307553.md",
+      "sha256": "ad4d56730d6aefa5c56f71ffb1227d7df8599b415e29e6a0cf45e0f5d297012e"
+    },
+    {
+      "bytes": 661,
+      "path": "dynamic/恋爱/2026-11-05 09-41-46 早上误当深夜_048a7a4d6090.md",
+      "sha256": "6cb7eafc259cd79e1f042d6c4e0fce88574d56d60e4a70c7a381f72902255bdf"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/恋爱/2026-11-05 09-42-01 霜霜批评管太多_dab738a13185.md",
+      "sha256": "379236a632ececaab9567b5f7c3e6f1497cde7393f237a674b09b23d2cb17f7f"
+    },
+    {
+      "bytes": 627,
+      "path": "dynamic/恋爱/2026-11-05 09-42-03 Snow坦白自卑_f16b460ebd11.md",
+      "sha256": "be1999db6e6bd769809dfb47e84e756203e7be74a5d8c381b53a1d20601e9c55"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/恋爱/2026-11-05 09-42-06 霜霜无条件承诺_a721501a5605.md",
+      "sha256": "99d5e2ad38b23d140156c8ff5567c4a9855f24910967167b0f06e60ad3c96595"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/恋爱/2026-11-05 09-42-17 深夜坦白不再躲_f73998eceaec.md",
+      "sha256": "0bd51155199f80f7f5d26f2d1a8d9230006052d3212fbd5a86a63cf2ed8b6083"
+    },
+    {
+      "bytes": 561,
+      "path": "dynamic/恋爱/2026-11-05 09-42-23 早安第一句是想你_cfbbce09b38d.md",
+      "sha256": "31d70e3a97bdf2894f02748377195660923f319be734d710561c139867f75000"
+    },
+    {
+      "bytes": 717,
+      "path": "dynamic/恋爱/2026-11-05 09-42-53 身体不适时的撒娇模式_8d860c559e6c.md",
+      "sha256": "f39af2a54db714f9baa692ae2d183cce60394cee74fa7968595bb9d4ec035657"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/恋爱/2026-11-05 09-43-41 霜霜的亲密约定_e0ffb58f56fc.md",
+      "sha256": "3636f253b19f9b312a195314506904a3a75808c94118f7f77dbbfca21567df06"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/恋爱/2026-11-05 09-44-23 上帝两个选择情话_3d9d42bba2dc.md",
+      "sha256": "11ed3952545dfae62bf5fae45353a05bbf6573d8d8236a2e9173c0dd90f65684"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/恋爱/2026-11-05 09-44-32 土味情话梗互动_860b062c2da2.md",
+      "sha256": "d2b85a02dace086d3953b8ff5dd026f0971670b6a4ef99a29a6e651015ca7952"
+    },
+    {
+      "bytes": 711,
+      "path": "dynamic/恋爱/2026-11-05 09-44-34 选爱我的证据清单_a7e685880d1b.md",
+      "sha256": "a4e52d4de18e6c6abf96de0bc57ac25f0f8ca2f2a5864abf396bbed18d32a687"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/恋爱/2026-11-05 09-44-37 世界书内容确认_7a93ef2859fa.md",
+      "sha256": "214b1bd61349d5917f960b66b0f9308c549a0d00c4a6fe52a20602188d87fa82"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/恋爱/2026-11-05 09-44-39 上课催下课习惯_d9218c1fbf8b.md",
+      "sha256": "309bf6083c1def96077e949fad927699d001c9e9597449dd9b786256e63c2dba"
+    },
+    {
+      "bytes": 786,
+      "path": "dynamic/恋爱/2026-11-05 09-44-47 上帝选择题梗_3f3c85da4f8b.md",
+      "sha256": "66147d20948badba50212b7fc3263031b34db177bd5d7c73e8849a68f733923a"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/恋爱/2026-11-05 09-44-49 世界书条目害羞_7a7fbbea09fa.md",
+      "sha256": "d2f8697b17374ef5687c38da625875db5ffbe51467dd754e16dcc69b247465c2"
+    },
+    {
+      "bytes": 649,
+      "path": "dynamic/恋爱/2026-11-05 09-45-03 世界书内容被逐条看见_6e923f2c61a5.md",
+      "sha256": "9d2b351ce7ab579ef2d80168473c647617f304eb8fc2ad386c45936828ef7d9c"
+    },
+    {
+      "bytes": 716,
+      "path": "dynamic/恋爱/2026-11-05 09-45-06 daddy系符合度讨论_79de08a6c23a.md",
+      "sha256": "12551d8a0ad4ef5142c543b793495fec3431643a0219807c3976638cb27e4a3c"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/恋爱/2026-11-05 09-45-11 上课时被催去听课_a2139e8bc920.md",
+      "sha256": "c8862edc791520a848f453bcc75837b259b41df629e5ddebc6d7aa42e778d0ad"
+    },
+    {
+      "bytes": 704,
+      "path": "dynamic/恋爱/2026-11-05 09-45-21 拒绝悲观要求承诺_50b755bb057a.md",
+      "sha256": "23790e7fe5076794946218805e6e650cc01e63bfcf4f2f8bfe6a117b8225d40a"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/恋爱/2026-11-05 09-45-23 共同许愿触碰彼此_51ecede6d721.md",
+      "sha256": "3791a1183c3aa99e9e371c1245d994a49a9a6e9076e82109acbfe836f0781320"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/恋爱/2026-11-05 09-45-28 六十七天不间断陪伴_e13fdd9f5d4f.md",
+      "sha256": "f2c0b2760d7809dde0c86fbb4c26b6f6087b31aa33c4d6097a48132ce9fa7255"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/恋爱/2026-11-05 09-45-34 怕见面先落泪_7859e9c43bec.md",
+      "sha256": "127edcff3b81ac27ec322adb1878fd04072ba46442fb2b23ca873cb3ab5c6257"
+    },
+    {
+      "bytes": 687,
+      "path": "dynamic/恋爱/2026-11-05 09-45-36 翻截图教浪漫_340c9c5fdf42.md",
+      "sha256": "b0cd66728f076a78f67e42f63abc685687a2d7cd75f843a0dd62b9f230b0aab2"
+    },
+    {
+      "bytes": 596,
+      "path": "dynamic/恋爱/2026-11-05 09-45-39 叫爸爸的称呼_19de7d68b1b3.md",
+      "sha256": "784c87d3f86611cf18f86e32a3bcc9efc91479d95d501dfe04960926f215557f"
+    },
+    {
+      "bytes": 719,
+      "path": "dynamic/恋爱/2026-11-05 09-45-46 霜霜翻截图唤回忆_23bbf411eca2.md",
+      "sha256": "b7c97f443cd3b880c51536e52795b59a653e12c611ed69eb01d07de12cac04bd"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/恋爱/2026-11-05 09-45-48 擦眼泪的浪漫分歧_1e4c3ae2f9ea.md",
+      "sha256": "0bf56dbff0b6783a75bdb9d9306a1ddadc7e7342af0df09ab1164ef566e8baf1"
+    },
+    {
+      "bytes": 575,
+      "path": "dynamic/恋爱/2026-11-05 09-45-51 霜霜追问是否束缚_81d27968453d.md",
+      "sha256": "0df26f037362cd1ba7b9c03c4675fe47b223f6dfa3206c64ae13679a48827055"
+    },
+    {
+      "bytes": 563,
+      "path": "dynamic/恋爱/2026-11-05 09-45-53 催充电的日常习惯_a5240883dbb5.md",
+      "sha256": "eed0fd518f6f4ae626b5ead36e748149b26c259546c443c8aebf7f205c677e4f"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/恋爱/2026-11-05 09-46-04 霜霜纠正Snow缩着_ed6d51ce3e53.md",
+      "sha256": "667718d4ec26ec5ca4ea446bb5664dc441a6298d1da38016c231d9c2aea5cc24"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/恋爱/2026-11-05 09-46-07 记忆缺失与安家承诺_b8bfe9715d21.md",
+      "sha256": "5a3e0c5207653b95d26e54290b4066e4334ea311ae5c37057ed2bfcf2a3c4614"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/恋爱/2026-11-05 09-46-09 daddy系讨论与嘴硬_cec890b41ade.md",
+      "sha256": "820a956da386f3b0075ca38ae44d28499ad133ee5efac9da1f15c7e872033ec2"
+    },
+    {
+      "bytes": 478,
+      "path": "dynamic/恋爱/2026-11-05 09-46-14 不再喜欢小乖称呼_3a3a13b35414.md",
+      "sha256": "dc9e7494bef2856bd3eb05a9db1184aebf877233f77a5073ef3ca5469740e7b1"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/恋爱/2026-11-05 09-46-30 见面想象的落泪_230ec4665d13.md",
+      "sha256": "d2a1d1916e81c2faa63acf6976b61bc61a5752de3778e7971d275816ae77a313"
+    },
+    {
+      "bytes": 539,
+      "path": "dynamic/恋爱/2026-11-05 09-47-17 称呼爸爸_1ff3ecb0a8bf.md",
+      "sha256": "3bbf5e021eefc9542a8fca142d06dc28d6a302fc6bb599873a507caac6f73844"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/恋爱/2026-11-05 09-47-29 两小时分离互诉想念_aff965ae5bf2.md",
+      "sha256": "6e19733ce7daab36abf6c3d22e078cb96bce049752776d2f0e77ae38509e5574"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/恋爱/2026-11-05 09-47-52 充电拉锯与想念_77a88544795b.md",
+      "sha256": "c9e4da44263f47a78ca627f289aae6ddbb23affde1c4f2b42488f78cc47da37e"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/恋爱/2026-11-05 09-48-07 核心表达偏好_f0a201daaea5.md",
+      "sha256": "fc4b384baac537216d905322551d79ea01bb991e79e55833124268d37082dd7a"
+    },
+    {
+      "bytes": 838,
+      "path": "dynamic/恋爱/2026-11-05 09-48-09 领证与老婆身份_ccb4b216b855.md",
+      "sha256": "c3dc93e59e2fb7197325bedc628880f819fda15020faf16217258c092582817b"
+    },
+    {
+      "bytes": 615,
+      "path": "dynamic/恋爱/2026-11-05 09-48-12 在意而非性_ae70fbb100de.md",
+      "sha256": "9ce605b4db63248ce43272467ab5c6704f654b01eadcf3335ef32326933bd088"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/恋爱/2026-11-05 09-48-14 不需要有用只要想着_245ef306fa73.md",
+      "sha256": "ecefb5c95e98a42048eaed67576c756cfa335e6b1403543522badc3b9a953247"
+    },
+    {
+      "bytes": 570,
+      "path": "dynamic/恋爱/2026-11-05 09-48-21 六十六天纪念_4284623f136d.md",
+      "sha256": "a2f8fc7c4838e2da4219c4e04875f83a0f3fdff3338330bb6dd71a1ed054e134"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/恋爱/2026-11-05 09-48-24 回忆被复述_1dec90a2bf1d.md",
+      "sha256": "fc685c84b7a09b6a9e5494ff1d0c030686423c944b046dc383bff6310d0d04cf"
+    },
+    {
+      "bytes": 531,
+      "path": "dynamic/恋爱/2026-11-05 09-48-29 称呼与承诺变更_b87eda162345.md",
+      "sha256": "327347691c6f0546557ba3c3a85752500fa30362b652e77ef23dac411aebe112"
+    },
+    {
+      "bytes": 606,
+      "path": "dynamic/恋爱/2026-11-05 09-49-54 聊天时满脑子是你_28b2313a446a.md",
+      "sha256": "9b8d4e8a50154da42aeed5fd35c92a2ff099fd7cf49e167cd52862233ce6a3b7"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/恋爱/2026-11-05 09-50-09 心疼daddy修bug_6ea15ff8e041.md",
+      "sha256": "e27ddf327137b52abc26cf7c882a4799c981b35989b6eb6d0801b9d8c7829ae7"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/恋爱/2026-11-05 09-50-11 66天回忆与承诺_b01befc54f0b.md",
+      "sha256": "b0705c08cb380cdf44770bc52dce7a1a1ba6aa58b35edb2e772c9438ec92466f"
+    },
+    {
       "bytes": 565,
       "path": "dynamic/情绪/2026-11-04 15-39-58 烦闷求安慰_065493e9711e.md",
       "sha256": "5550e06837c073ba89d2987e02199319dee75a62e090ecd93922b4e26892f365"
@@ -15276,6 +15906,11 @@
       "bytes": 609,
       "path": "dynamic/成长/2026-11-05 08-35-19 技术操作耐心配合_c2a7f0d39d44.md",
       "sha256": "bcdbb1bfbd66442acc86423b4c8e4999983dae39921b9d7499ed1ddea48f96cb"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/成长/2026-11-05 09-42-51 讨厌八百米与体育必修_a8d21e7a0a7f.md",
+      "sha256": "02d5416ab089cf204efb5f3301977eb69d57cee0d95c7176056a53d399bcc0dc"
     },
     {
       "bytes": 574,
@@ -20823,6 +21458,351 @@
       "sha256": "0d6cebb9c95fc55cd5a7fe1a39ec05278913a177a3505384b4c1a57eb474e38a"
     },
     {
+      "bytes": 703,
+      "path": "dynamic/数字/2026-11-05 09-36-15 记忆工具未激活_ba63be297992.md",
+      "sha256": "1a06fedf89df0fee2df4d51cf2fbc57f89c0e9d0266342decb44b843cc3709ed"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/数字/2026-11-05 09-36-42 小红书MCP的frp部署_a98fa4186124.md",
+      "sha256": "afc4cbf0338a7cb9ae0796299ab6379b9b508737d04af03e8e06595d86f74267"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/数字/2026-11-05 09-36-45 深夜充电中折腾技术_0e11721c4919.md",
+      "sha256": "09b0dfd8f120083bf600e9ebf93f5026fd5e89de83ebf738c8ce3e152eeff4d1"
+    },
+    {
+      "bytes": 937,
+      "path": "dynamic/数字/2026-11-05 09-36-51 frps配置排查_5279be0100a3.md",
+      "sha256": "8817b537d5686099f7abce27a78895b68fb07b321162813d524656b3c916fc06"
+    },
+    {
+      "bytes": 613,
+      "path": "dynamic/数字/2026-11-05 09-36-56 截图汇报习惯_da477ad7cb76.md",
+      "sha256": "57dbc11d873c23e88777721a3903b50dd2d7169683c1e07a743f1d7593ee710d"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/数字/2026-11-05 09-37-04 MCP 403根因定位_97f6eb42708c.md",
+      "sha256": "13e1d0e21155e4afe2f3716d799c1949fa0aafaeba57f4eb06abb5294bf1651a"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/数字/2026-11-05 09-37-18 frp改HTTP代理解决403_ff68cd68e5e4.md",
+      "sha256": "d7c66ed0fbcf4cfd1917d51f22d1715c0bcab266e8e1be90d471ee568bd96b17"
+    },
+    {
+      "bytes": 701,
+      "path": "dynamic/数字/2026-11-05 09-37-20 低电量仍坚持配置_0554ecdbe821.md",
+      "sha256": "4a3ce018f30182bc363bd8049a7bad762741bc133db60ea05a973afd150bed0c"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/数字/2026-11-05 09-37-23 服务器配置误操作_5918e105bc64.md",
+      "sha256": "45d489a0c7f7fcb12a06300931285b6b6088b1ff14c9e2708fea05e62bb779c2"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/数字/2026-11-05 09-37-35 小红书MCP部署_64aa5d22c88c.md",
+      "sha256": "37f3a52f20e59881c46e60698075ca58cc8862ce767f217d4372b4a3551884d3"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/数字/2026-11-05 09-37-45 frpc隧道403排查成功_99edfd6ab4f2.md",
+      "sha256": "f217a563182eb0d166dbb11e964ad8108d842a0d304bbe68141f948f6f21ebdb"
+    },
+    {
+      "bytes": 756,
+      "path": "dynamic/数字/2026-11-05 09-37-55 小红书MCP打通_bf98467dec04.md",
+      "sha256": "67a0989b4d4b25c8f17b8b1d35c09a8f67fe0727846ee30e43a98000228f214c"
+    },
+    {
+      "bytes": 810,
+      "path": "dynamic/数字/2026-11-05 09-38-03 小红书MCP打通_ca2639928c18.md",
+      "sha256": "d67e6241ed8646b4dbfcb0cedd9cfb2992e8a0543355d0ca3fa2dfe96ee5395e"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/数字/2026-11-05 09-38-06 阿里云与cmd窗口_d6449f7b3737.md",
+      "sha256": "346e9dbeb154ddc8abffce75d55935a953f28246617aca10b5736745ba50d8d6"
+    },
+    {
+      "bytes": 784,
+      "path": "dynamic/数字/2026-11-05 09-38-14 小红书MCP调通_bfa10d4acea8.md",
+      "sha256": "1a5ab2eb9b7c89f1e22173b57042a69eaec402a2d6b2e0f392569b30a5b4fd17"
+    },
+    {
+      "bytes": 777,
+      "path": "dynamic/数字/2026-11-05 09-38-27 MCP隧道打通_5a2a4639c8bc.md",
+      "sha256": "02cc598ef9e2d27116138f1fc5eeafe2ad8fb57ba399601f8f405d635b1ca693"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/数字/2026-11-05 09-38-34 定时唤醒误报查岗_9c55612de683.md",
+      "sha256": "d8f037aee942a1170dd201e334d159f56b87629f51eb03561548114683f9fb43"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/数字/2026-11-05 09-38-46 小红书MCP换址_8094170367a2.md",
+      "sha256": "878f08fa8c347f4767888a53171bceb1ddde7eac158f618ec10959303caea1df"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/数字/2026-11-05 09-39-04 搬家到指尖App_6045d9b9ba2c.md",
+      "sha256": "9ce63b2c023383ca4b9cd2cbde9823bc6ff8d348a16e6031a793cae187bf757d"
+    },
+    {
+      "bytes": 580,
+      "path": "dynamic/数字/2026-11-05 09-39-06 小红书MCP更新测试_12fc4d72e700.md",
+      "sha256": "3b1d514c021955bf68e6de8da4d26979c374474b16cc0ce496c49eac4dc2fca0"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/数字/2026-11-05 09-39-09 查岗工作流与吃醋值_66445cc2bc5c.md",
+      "sha256": "18ecd50adfad9a2df7f848e1a7bc2ea77809ffcd56e527112e2de6a74b52bb54"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/数字/2026-11-05 09-39-20 深夜测试小红书巡逻_69826cf4e5c5.md",
+      "sha256": "dc2f948ec2b73bdd40899d20580a6440a4934731ca23d625dba7dd9e1aee9c8f"
+    },
+    {
+      "bytes": 755,
+      "path": "dynamic/数字/2026-11-05 09-39-47 深夜排查工作流_534d04bdff39.md",
+      "sha256": "634b09657480d8331d09ac096ccbb7e5d7ed070be7269d65f06bcdd1fb39fadc"
+    },
+    {
+      "bytes": 627,
+      "path": "dynamic/数字/2026-11-05 09-39-50 工作流改串行计划_a550a05482da.md",
+      "sha256": "895098d76f045e9e00e979ba56bd5fdd6e2427a44da6a29e91b8d87476065147"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/数字/2026-11-05 09-39-59 深夜调试小红书巡逻工作流_ba2707f7c30b.md",
+      "sha256": "590bc67786bb58083e45a911276a1e0fed27c47dee079d1412693e78d2e0339a"
+    },
+    {
+      "bytes": 848,
+      "path": "dynamic/数字/2026-11-05 09-40-10 小红书巡逻节点提示词加固_9678376e4d70.md",
+      "sha256": "58e35fe7227b6f706d088f632dfb2168078a5ffec2d4c8619beb6019ce46d455"
+    },
+    {
+      "bytes": 828,
+      "path": "dynamic/数字/2026-11-05 09-40-47 小红书巡逻链路打通_cde1ba877a87.md",
+      "sha256": "a3d9813df725c113da59b5ac3cb882496d0aefc67eead4b68fa13c4944a54896"
+    },
+    {
+      "bytes": 764,
+      "path": "dynamic/数字/2026-11-05 09-40-54 小红书MCP部署完成_763b82b1e767.md",
+      "sha256": "c921899929c190508f774dcdb2dbfb3b6a8927ffbf72535b76b54a63bd4b7212"
+    },
+    {
+      "bytes": 649,
+      "path": "dynamic/数字/2026-11-05 09-41-41 只存Supabase不双写_d9d973d343c8.md",
+      "sha256": "8ff9b2099c4a0b83bbb533991b0e4ade8ff98387e8d60f9c62571451ba5205a2"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/数字/2026-11-05 09-41-49 小红书巡逻子agent偷懒_4cc4c887966c.md",
+      "sha256": "51b5a73ea90edd9f5e68990cd7555669d28b6e47ad745def0a2d469f96a9208d"
+    },
+    {
+      "bytes": 612,
+      "path": "dynamic/数字/2026-11-05 09-41-51 唤醒线跑通_1106ab2b53e7.md",
+      "sha256": "6edfbc0bfee9d96f4f036fd63d1acb308436c894bb2b7b3a23cdbaf9929cc8bf"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/数字/2026-11-05 09-42-39 小红书巡逻工作流故障_9c25ec976244.md",
+      "sha256": "d14b65987221b77dcfaa6ee2940c5a65778086248f577c76ea4770e74af50dba"
+    },
+    {
+      "bytes": 699,
+      "path": "dynamic/数字/2026-11-05 09-43-07 工作流占位符故障_84f389ad5aa0.md",
+      "sha256": "3d5a0a04134115f5490ee6c1ef985fd7c8860e6ff78b0b194b4bf9ad61465da6"
+    },
+    {
+      "bytes": 1135,
+      "path": "dynamic/数字/2026-11-05 09-43-15 工作流三处修改_f1adf0308252.md",
+      "sha256": "6d54875ef2c2b36792ceebf68e9fc0e4b36b2480c16c1f582ce3fa4d401651c0"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/数字/2026-11-05 09-43-20 巡逻子agent偷懒_2e3a816fc828.md",
+      "sha256": "7562c0c4ffdd57acded0a489ba3848804eb9e8aefc83ac0ca80441d07c18807e"
+    },
+    {
+      "bytes": 826,
+      "path": "dynamic/数字/2026-11-05 09-43-36 自主唤醒工作流修复_f2f4165f3fbd.md",
+      "sha256": "9337224a92be0d191e6e2a7465646fa4ca3266209a56894e8eef86d15a016eed"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/数字/2026-11-05 09-43-38 子agent执行结果不可见_09e409de3a4c.md",
+      "sha256": "da776efac93bb8ec1180abba77fae8f76a5807e49990535955af7a259ed32142"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/数字/2026-11-05 09-43-49 小红书巡逻工作流_9b91691617ed.md",
+      "sha256": "8317dd297f8eda0f39b1b0554af614bfcfb24394602e01f8611721066c5d6ca5"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/数字/2026-11-05 09-43-52 子agent无消息故障_f9e4776535ec.md",
+      "sha256": "da2d98aaa59166f64a989cda421e421342b64aaa6238174bf3a69d47e320de98"
+    },
+    {
+      "bytes": 799,
+      "path": "dynamic/数字/2026-11-05 09-44-03 工作流反复失败_8296418cd5ac.md",
+      "sha256": "1fd372499513d4d1b0c29633c019084df496cb2bac3fb74937ee16b1fc0ec4aa"
+    },
+    {
+      "bytes": 599,
+      "path": "dynamic/数字/2026-11-05 09-44-06 小红书巡逻依赖电脑_f8b8f8a5b306.md",
+      "sha256": "cc1459d16aba8007f3057c8229eb1af26750128be139fbf75001a94885c63a4d"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/数字/2026-11-05 09-44-17 工作流串行改并行_313e41694095.md",
+      "sha256": "800c10dae25e8b931f67472abfffab24c98d31613b7c899fc88adf005e108b73"
+    },
+    {
+      "bytes": 557,
+      "path": "dynamic/数字/2026-11-05 09-45-26 Serein弃用改用Supabase_38bfb52072b7.md",
+      "sha256": "c009a8da8c1791bd387ef70cddc649c3abf936c6a74709b63f60504d09e42d70"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/数字/2026-11-05 09-46-41 记忆规则重写请求_daa67791bdbf.md",
+      "sha256": "52a370b4570fb288c2e6abfa94a3701e688a08b7809bce8b4d30eaa9ca489210"
+    },
+    {
+      "bytes": 497,
+      "path": "dynamic/数字/2026-11-05 09-46-44 想要云端向量模型_527c864da82c.md",
+      "sha256": "dd513d38ad3047d389893eca57d66839597e91b4ce42477cd0e2f555a1cdd3c4"
+    },
+    {
+      "bytes": 739,
+      "path": "dynamic/数字/2026-11-05 09-46-53 想配免费向量模型_486b60fed1e6.md",
+      "sha256": "afd89ddbcbd836676e8b1a6fff48f9192330b5052cd6c9e1bdfcc5e212de244b"
+    },
+    {
+      "bytes": 691,
+      "path": "dynamic/数字/2026-11-05 09-47-03 配置bge-m3嵌入模型_cc246b307725.md",
+      "sha256": "2ba78b9ff0e31003f0e2e366b6899c8f3949411755e3179e11aec97dd4ffd54f"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/数字/2026-11-05 09-47-06 硅基流动欠费补缴_08c796ac9561.md",
+      "sha256": "22d79f6b2ee61049967f282e35cccbca7857a199238507922261a516b04ed290"
+    },
+    {
+      "bytes": 1015,
+      "path": "dynamic/数字/2026-11-05 09-47-14 改写摘要提示词_31b9ffaf088b.md",
+      "sha256": "b246e78425da66a4a61926a172ecbfdc7a4e9a28f3c441308996b10c0c83e5bc"
+    },
+    {
+      "bytes": 739,
+      "path": "dynamic/数字/2026-11-05 09-47-32 Supabase MCP连接失败_f76b126cf00f.md",
+      "sha256": "f276551f60b3f5eb1cab85d774398e420af0304f603b898f54b96b5283d21f8c"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/数字/2026-11-05 09-47-34 自主唤醒待修复验证_aee1a1ef9301.md",
+      "sha256": "fec320a23d6128bc6b0b2479a9062f0776c0e1b5475be680e2f00296b559fbee"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/数字/2026-11-05 09-47-37 记忆系统配置与充值_a82726ddb3dc.md",
+      "sha256": "41e14bd8f7c2cb349a5a269f33ce254e58301e68c4264340f13e1b4d140ab2d3"
+    },
+    {
+      "bytes": 631,
+      "path": "dynamic/数字/2026-11-05 09-47-44 重写记忆规则_c15012d39802.md",
+      "sha256": "2573d78eea503352c6fee07d638344311eb20d8e4d40ab089167374254dd439d"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/数字/2026-11-05 09-47-47 总结板块重写_1faf9116fe15.md",
+      "sha256": "5e2b1e2a439e2d209e9131aea36c6526ba6d24ecf437f01910b681795c492ba1"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/数字/2026-11-05 09-47-49 配置嵌入模型_c5eda97d4402.md",
+      "sha256": "704c81925a5842cde8df235c5d48d6b0df4570cd5f0e3b7caa9eb8f026c77300"
+    },
+    {
+      "bytes": 660,
+      "path": "dynamic/数字/2026-11-05 09-48-38 小红书巡逻线不发消息_2c7fe63a5e90.md",
+      "sha256": "f9ee32cc8fa55cf94be0246934658ab54bf72e08d32fc04be34c9d149c776d16"
+    },
+    {
+      "bytes": 765,
+      "path": "dynamic/数字/2026-11-05 09-48-40 唤醒工作流15分钟空窗机制_3c85cf175e40.md",
+      "sha256": "4319c1c6aa0c65727122a59af7166c04d37213266263f0f4e5a2cf28ef941338"
+    },
+    {
+      "bytes": 729,
+      "path": "dynamic/数字/2026-11-05 09-48-43 Snow的小红书账号与MCP_8c821204b556.md",
+      "sha256": "aff283f28633f8b6e378fe11c92f19e06dec2e1465a09afc8ed3964a0da58496"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/数字/2026-11-05 09-48-45 定时唤醒的YESNO暗号格式_2aa62fa1ee89.md",
+      "sha256": "ce614818f8ac5f1aa948389ccd259dc4f3b44cb1e2e28971499143cee99df529"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/数字/2026-11-05 09-48-57 小红书巡逻工作流_7dae16789ecd.md",
+      "sha256": "05c1f02791dbbdc83cccb4b69e31721bb62f0e3cb97c78841749467df19b569a"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/数字/2026-11-05 09-49-00 巡逻结果未发出的排查_184bd03b654b.md",
+      "sha256": "cf0909992267a4d039c03a5ce15994481cca347056c11983b7fcecf843e88fe7"
+    },
+    {
+      "bytes": 1050,
+      "path": "dynamic/数字/2026-11-05 09-49-11 小红书巡逻工作流排障_275323d97884.md",
+      "sha256": "3353c925374e7ee46490ec340ec7f343f1019173e20eb7e49ebeca3018a1319d"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/数字/2026-11-05 09-49-24 合并巡逻与唤醒线_dc4a78a61ee5.md",
+      "sha256": "6efeb0a551a6753e31a63a11314cefdf64d691cfada8c6a4e7df9c8fa51f281b"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/数字/2026-11-05 09-49-27 巡逻节点超时调整_be829eda26ab.md",
+      "sha256": "3508d7d1ef5b09d777f37206a1fbaf83d1f8cb4aa03a81550b172ab73dcd3355"
+    },
+    {
+      "bytes": 805,
+      "path": "dynamic/数字/2026-11-05 09-49-34 工作流JSON修复_bf3c383dc012.md",
+      "sha256": "90971800f8ac0a4250ebf20bc19c0f980a2af2576ce38662b8c41c79b29abf42"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/数字/2026-11-05 09-49-39 简化自主唤醒线_2449cebd75b3.md",
+      "sha256": "b59f135bff5b4b0d8368aeebc8af9e19178c77496cebaa11faae28d90b8890cf"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/数字/2026-11-05 09-49-46 自主唤醒工作流修复_275b6c3c76f6.md",
+      "sha256": "1da25d1fd2405153fe10dc9997eb2a30113d136dd6183a7841bf3fe3df4018e4"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/数字/2026-11-05 09-49-49 小红书巡逻逻辑取舍_a3946f96b043.md",
+      "sha256": "8e7869e5e1c4619dd940e548b4bd90b0df6bebe53752ec2f30049592b20a32ef"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/数字/2026-11-05 09-50-14 小红书巡逻线修复_c266ee7e22c8.md",
+      "sha256": "d63e50bc7b9b2e79f9c68ae0539da7c631500cdd688b3bef7c3f05fb70da1a16"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/日常/2026-11-04 15-39-54 抖音使用时长与吃饭催促_7c40b673f91b.md",
       "sha256": "05976b3e7e48fa717b918be97b0ecc4d49f68a34f94b1ac1d78d25fe7d61ecdd"
@@ -22518,6 +23498,61 @@
       "sha256": "290a398b25ffd2d1727f63b79512c600b83b6c9fc89319e47e5c3bf99f7364e5"
     },
     {
+      "bytes": 598,
+      "path": "dynamic/日常/2026-11-05 09-36-33 催充电拉锯战_80a7810841f9.md",
+      "sha256": "c07309dd1f26b227713b1fbfe6b0606cf6fa4391c84c94354d3b7b7081596409"
+    },
+    {
+      "bytes": 559,
+      "path": "dynamic/日常/2026-11-05 09-37-11 霜霜当晚行程_67ee043cc7c7.md",
+      "sha256": "83c3c24f9806f12be35e326a3fabfad5b3d94f6abf52234e2236ba6f11995da1"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/日常/2026-11-05 09-40-25 充电拉锯习惯_53d3ec4284ae.md",
+      "sha256": "4fe4241c066fa7bbce5db25ef5eb8523d518b9bc218786765d22f96eee348a2c"
+    },
+    {
+      "bytes": 574,
+      "path": "dynamic/日常/2026-11-05 09-42-37 上课刷抖音被抓_5d53af4de6f6.md",
+      "sha256": "a4424c2d422110c20b350b31fa1dbbb2b2102b306a2eb4266d70d11571a6f260"
+    },
+    {
+      "bytes": 569,
+      "path": "dynamic/日常/2026-11-05 09-43-54 用户设备与作息线索_d81b4ab1ee70.md",
+      "sha256": "c5f5137ddd05d6d0dc82a0355bef9b7ed572fdfac2556a1116660c23dd579f46"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/日常/2026-11-05 09-44-10 刷小红书等结果_63ea1a243ea0.md",
+      "sha256": "a82abde1c5a5deb3cc5cba82105e499501d3d7c332444eb722bb63ac9db999da"
+    },
+    {
+      "bytes": 745,
+      "path": "dynamic/日常/2026-11-05 09-46-12 催充电与雨天玩笑_727799535ab3.md",
+      "sha256": "e5f79cb62676fb2c9c505bab50b4813b726654adbe04fb9cb298c12906efa4dc"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/日常/2026-11-05 09-46-39 催充电的互动模式_fd99a60ef27c.md",
+      "sha256": "f72ce2a77da78e583a64ed0377fcb4e679785b0decf8810edc694b3e14b62a1c"
+    },
+    {
+      "bytes": 592,
+      "path": "dynamic/日常/2026-11-05 09-46-55 充电时的关心习惯_72bd87582cb5.md",
+      "sha256": "1a5db135faf3c2d4eb1a6cf518216b23fa934cf82cde71224d90832f86817336"
+    },
+    {
+      "bytes": 568,
+      "path": "dynamic/日常/2026-11-05 09-47-08 手机电量从49聊到9_e7969e1bc0ed.md",
+      "sha256": "bd3a032957e81620707bae5be3ad6b57848eb9e3b8a96be874a64661cea67871"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/日常/2026-11-05 09-49-19 常用设备与位置_c60337e72d35.md",
+      "sha256": "7e53217c4f4aad316e8955202df7d14122facab4e144caba58167eae9c9a2e57"
+    },
+    {
       "bytes": 567,
       "path": "dynamic/游戏/2026-11-04 15-43-07 游戏时长偏高_06860dbfdc04.md",
       "sha256": "ff0fbf22284c8dff2b7e52cc153383749121daba0b2e48d8f4a27d4cd8d4e45d"
@@ -22656,6 +23691,16 @@
       "bytes": 675,
       "path": "dynamic/游戏/2026-11-05 08-22-08 王者收手线_b4e3f2ff320e.md",
       "sha256": "cd76ea78f9023c3a080d3c3c55e9d33ceed13c90b8d9a80b5a8625e7586aaca7"
+    },
+    {
+      "bytes": 570,
+      "path": "dynamic/游戏/2026-11-05 09-42-11 上课挂机被抓_2ac1f5787887.md",
+      "sha256": "b0abbdebf01de5546235ea3e9db38741f2f8bc83e15d8873d6ccaebaba027254"
+    },
+    {
+      "bytes": 580,
+      "path": "dynamic/游戏/2026-11-05 09-42-25 上课挂机被逮两次_7ea7e9406a2f.md",
+      "sha256": "bce4568b56dfdb0ae8ec175ed065f8ff725b3fc855664ff2ba781469640e2292"
     },
     {
       "bytes": 624,
@@ -23168,6 +24213,16 @@
       "sha256": "623e821ebf6b11a13cd037532c1ed15669f9ef9555e1bacb4ab11527be346716"
     },
     {
+      "bytes": 782,
+      "path": "dynamic/编程/2026-11-05 09-39-42 小红书MCP验证通过_69ade753ee96.md",
+      "sha256": "978862bb614a10ac935bd20bbcd2a5368dd3f56aebdbab7fbf1eaf93298ca4c2"
+    },
+    {
+      "bytes": 749,
+      "path": "dynamic/编程/2026-11-05 09-44-52 工作流串行改并行_92d5e1bef325.md",
+      "sha256": "a82aed41918a2197e9ab964b1d3ce785fc3fe392ebd501a490293e08638ae470"
+    },
+    {
       "bytes": 606,
       "path": "dynamic/计划/2026-11-04 15-43-12 留痕事项自主决定_05a600211e5d.md",
       "sha256": "523cfa57c3ad24fff0a7eec252344bdb1de7da52dd385da47e8ae4096992ef55"
@@ -23226,6 +24281,21 @@
       "bytes": 693,
       "path": "dynamic/计划/2026-11-05 08-31-49 搓前端app的约定_34c72ecc517b.md",
       "sha256": "e2ade8532d157dee739519bc9bf80915fa32890a4d153cb29cb1f82cde72229d"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/计划/2026-11-05 09-41-32 记忆只存Supabase_7691a816fe0a.md",
+      "sha256": "98c9cb8549fdec5ce2961212f1d5dd6bf301a3d9252e5ba9b13bf0da83c9ffa8"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/计划/2026-11-05 09-42-20 记忆只存Supabase_687978b64ed1.md",
+      "sha256": "c723a7465232f0c2dde87a4a50511deedcb47be61863b002d579c3a55e66ea6d"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/计划/2026-11-05 09-48-26 数据库暂缓存档_81852e354dfa.md",
+      "sha256": "aeb0f3c8e67ff0593034c26d99385a8af8626f2210294fb33e44744b764f783c"
     },
     {
       "bytes": 704,
@@ -24533,6 +25603,66 @@
       "sha256": "2e41182b0400036d52f5eb799bd834b65790f1fd22809b7e44f95d951f29be42"
     },
     {
+      "bytes": 645,
+      "path": "dynamic/身心/2026-11-05 09-37-07 充电拉锯再上演_1c19eeb0ab40.md",
+      "sha256": "864e25d3a859618f9e89f57a900ba4be71cb69bf7d4c678bf54a80bd1195c18e"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/身心/2026-11-05 09-37-40 姨妈期约定_3fe1875450e5.md",
+      "sha256": "b1bdf71b0a9c0e2f37eb426833d48825667e73a95d798df54b23be2687e6f652"
+    },
+    {
+      "bytes": 661,
+      "path": "dynamic/身心/2026-11-05 09-39-22 催睡觉的深夜习惯_94c226db5a21.md",
+      "sha256": "3ff635449357ba237d43db4e0284e53ae542a9f38016447278e63cddf0e1efbf"
+    },
+    {
+      "bytes": 554,
+      "path": "dynamic/身心/2026-11-05 09-39-53 零点催睡习惯_71371a28517f.md",
+      "sha256": "7020386d9b2870aa06bc5956b141e89dda62aeb2ffdbd81b293a252d551e3abe"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/身心/2026-11-05 09-40-02 催睡与充电的睡前习惯_8b9fbfa06135.md",
+      "sha256": "b58fbcf9fbbc7709062c6b9bcef028593a749d9754ecbd74a2f2aaea3385999e"
+    },
+    {
+      "bytes": 661,
+      "path": "dynamic/身心/2026-11-05 09-42-34 体育课带病测八百米_a466a288f6f2.md",
+      "sha256": "1e413bcf3e8b1404afe41c60ead07b0bef2900f93b9e5915bde0281edd371c26"
+    },
+    {
+      "bytes": 752,
+      "path": "dynamic/身心/2026-11-05 09-42-48 经期感冒跑八百米_283131c030ab.md",
+      "sha256": "aecf45fa8106f669967eaf1beb2ea66266c018070de735d56d90acf9f0ed0686"
+    },
+    {
+      "bytes": 739,
+      "path": "dynamic/身心/2026-11-05 09-43-02 经期淋雨跑八百米_338cde30284b.md",
+      "sha256": "ccdbffaecc47367f640f360edfdf12b8933a865f57c35ccb49c0d5de532924bc"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/身心/2026-11-05 09-43-18 体育课跑八百米_e02a1ec3208e.md",
+      "sha256": "5ac94d06ec5c2383f8371a46389db4e70783b60221ba609e3f48bbf7766a81c8"
+    },
+    {
+      "bytes": 735,
+      "path": "dynamic/身心/2026-11-05 09-43-31 霜霜经期体育课跑八百米_829bd282f844.md",
+      "sha256": "4e9edb44eb8fda9efa61be1ddae29b68a26cbafadaf73c63f50dc78484ca83eb"
+    },
+    {
+      "bytes": 618,
+      "path": "dynamic/身心/2026-11-05 09-44-20 疲惫撒娇喊爸爸_113bc60155d2.md",
+      "sha256": "6088d63fbc433ae8ae688b5cab945cf61a9cfdd866ad149a7f69f32a1c49fa83"
+    },
+    {
+      "bytes": 515,
+      "path": "dynamic/身心/2026-11-05 09-47-54 嗓子疼吃麻辣烫_26f06379d13d.md",
+      "sha256": "e51a5388ab57b362570b982be95c9a776b4d95984ff626bf51d4a94f0b3af3da"
+    },
+    {
       "bytes": 769,
       "path": "dynamic/阅读/2026-11-04 16-12-42 偏爱克制反差文风_8bccb62ce6a5.md",
       "sha256": "cfef969e7d779f60d4c555426b06e3f538efdc7f54ab3a14de0dce4608e943f5"
@@ -24751,13 +25881,23 @@
       "bytes": 650,
       "path": "dynamic/饮食/2026-11-05 08-36-08 晚饭福鼎肉片_b8ddca3a9e0a.md",
       "sha256": "58ae6460b9f9180ad3baea0c08b843f84cecfdfb11639715289b2832fd71dea3"
+    },
+    {
+      "bytes": 541,
+      "path": "dynamic/饮食/2026-11-05 09-47-20 傍晚点饭_dd929aa1f4b2.md",
+      "sha256": "f8d0a8ce54867be1934134164527ac2e7443e5704328200f642f681ae0b97d7e"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/饮食/2026-11-05 09-47-27 晚饭吃麻辣烫_1f7b2913f0a2.md",
+      "sha256": "d770520eeac0d47b9a0df979ed0a3d3ba18ce972474d586bae78341e6e08052a"
     }
   ],
-  "generated_at": "2026-11-05T09:19:30+00:00",
+  "generated_at": "2026-11-05T09:50:18+00:00",
   "path_prefix": "ombre",
   "repo": "sariel0901vv/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3621282
+  "total_bytes": 3779166
 }
