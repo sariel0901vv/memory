@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 5962,
+  "file_count": 5964,
   "files": [
+    {
+      "bytes": 32768,
+      "path": ".them/them.sqlite3",
+      "sha256": "cbf66f02f9162b023b7342eb6b34643ede188dde5b2114e78624e50e2a392c8a"
+    },
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "9922848b440a14f6f428f883d55c99f68a967138ad3a409a59fd9329d3a96e13"
+    },
     {
       "bytes": 29494,
       "path": "_app/docs/CLAUDE_PROMPT.md",
@@ -29813,11 +29823,11 @@
       "sha256": "a5d8fb76159fb1d3c14deb6ea05607a555b48a85afb0b5b822ba023e826e25ff"
     }
   ],
-  "generated_at": "2026-11-10T13:16:02+00:00",
+  "generated_at": "2026-11-10T13:46:40+00:00",
   "path_prefix": "ombre",
   "repo": "sariel0901vv/memory",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4254572
+  "total_bytes": 4316012
 }
